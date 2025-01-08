@@ -20,7 +20,8 @@ Este projeto demonstra a configuração e execução de um ataque de phishing ut
 
 1. Acesse o terminal como root:
 > sudo su
-2. insira a senha 
+2. insira a senha
+> 
 3. Inicie o SEToolkit:
 > setoolkit
 4. Escolha o tipo de ataque:
@@ -36,5 +37,6 @@ Caso o IP não seja exibido, utilize o comando:
 > ifconfig
 9. Forneça a URL do site que deseja clonar:
 > ex: http://www.facebook.com
+
 Após configurar, o SEToolkit criará um servidor local e capturará as credenciais inseridas no site clonado.
 ![image](https://github.com/user-attachments/assets/f063ae4a-76fa-48d4-8380-76eebbb5add3)
