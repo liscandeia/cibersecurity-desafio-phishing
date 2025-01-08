@@ -39,5 +39,6 @@ Caso o IP não seja exibido, utilize o comando:
 > ex: http://www.facebook.com
 
 Após configurar, o SEToolkit criará um servidor local e capturará as credenciais inseridas no site clonado.
->Para o teste, utilizei uma VM com Windows 10. Com o navegador em modo anônimo, acessei a página falsa do Facebook usando o IP da VM Kali e inseri um login para simulação
+>Para o teste, utilizei uma VM com Windows 10. Com o navegador em modo anônimo, acessei a página falsa do Facebook usando o IP da VM Kali e inseri um login para simulação.
+
 ![image](https://github.com/user-attachments/assets/f063ae4a-76fa-48d4-8380-76eebbb5add3)
